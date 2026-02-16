@@ -1,7 +1,7 @@
 ## Hello, My name is Elissa Cheng!
 
 :books: Candidate for University of Toronto BASc in Industrial Engineering + PEY Co-op<br/>
-:necktie: Manufacturing technician intern at Array Marketing<br/>
+:necktie: Previously manufacturing technician intern at Array Marketing<br/>
 
 
 ## 🌐 Socials:
